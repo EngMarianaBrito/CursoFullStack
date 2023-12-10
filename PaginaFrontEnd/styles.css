@@ -1,0 +1,32 @@
+/* Estilos para o banner na página inicial */
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 80px;
+    text-align: center;
+}
+
+/* Estilos para os destaques na página inicial */
+.col-md-4 {
+    margin-bottom: 20px;
+}
+
+/* Estilos para o formulário de login */
+#loginForm {
+    margin-top: 20px;
+}
+
+/* Estilos para o rodapé */
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/* Estilos para o menu de navegação */
+.navbar {
+    margin-bottom: 20px;
+}
